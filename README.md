@@ -36,4 +36,4 @@ $$\text{Consumo Mensal (kWh)} = \frac{\text{Potência (W)} \times \text{Horas/Di
 
 1. Clone o repositório ou baixe os arquivos para a pasta local:
    ```bash
-   git clone [https://github.com/CarolF15/consumo-energia.git](https://github.com/CarolF15/consumo-energia.git)
+   git clone [https://github.com/CarolF15/consumo-energia-java.git](https://github.com/CarolF15/consumo-energia-java.git)
